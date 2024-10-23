@@ -1,0 +1,19 @@
+{
+  "name": "appium-mobile-auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "appium": "^2.12.0",
+    "webdriverio": "^9.2.1"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^3.8.0"
+  }
+}
